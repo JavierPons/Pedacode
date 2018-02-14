@@ -1,0 +1,24 @@
+{
+    "categories": [
+        {
+            "id": 1,
+            "description": "kortit",
+            "playlist": [
+                {
+                    "title": "Lautapeli",
+                    "author": "Javier Pons",
+                    "type": "photo",
+                    "cover": "./img/lautapeli.jpg",
+                    "id": 1
+                },
+                {
+                    "title": "Retki",
+                    "author": "Javier Pons",
+                    "type": "photo",
+                    "cover": "./img/retki.jpg",
+                    "id": 1
+                }
+            ]
+        }
+    ]
+}
